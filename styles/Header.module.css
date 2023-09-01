@@ -1,0 +1,9 @@
+.nav {
+  display: flex;
+  flex:1;
+  height: 100px;
+  background: gray;
+  justify-content:center;
+  align-items: center;
+  color: white
+}
